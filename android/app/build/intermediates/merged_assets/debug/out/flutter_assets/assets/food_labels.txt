@@ -1,0 +1,29 @@
+0 Rice
+1 Roti
+2 Vada
+3 Puri
+4 Idli
+5 Dosa
+6 Chips
+7 Pizza
+8 Burger
+9 Fries
+10 Tea
+11 Paneer
+12 Chicken Biryani
+13 Biryani
+14 Poha
+15 Chicken
+16 Fish
+17 Milk
+18 Egg
+19 Ice cream
+20 Chocolate
+21 Noodles
+22 Fried rice
+23 Cashew nuts
+24 Almonds
+25 Samosa
+26 Banana
+27 Apple
+28 Bread

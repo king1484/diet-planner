@@ -1,0 +1,580 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:1:1-62:12
+MERGED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:1:1-62:12
+MERGED from [:shared_preferences_android] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:tflite] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:android_alarm_manager_plus] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\android_alarm_manager_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:fluttertoast] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6603fab1064f16f5e482b13fb65a2cbd\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79a1e06fd0d9dd6fbb27ee5e850b0164\jetified-firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8316e293ee623f3b1731bc9a296446d2\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c4deb5bfa6a68ba7049f56bd5200581d\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\bed3530ad77239199584349c201c1938\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\2b7e226b56e6854c462e4d88db04b125\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8d70edcce36707b628d278ac90777b3c\jetified-play-services-measurement-sdk-20.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\151f564f4ec8a7f8636b45840e23e852\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\2bb6161904247b9ad192a8e1ffd482a1\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b7e01f92680b5ec5599db89c8a23ddff\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\616b3add37aa25bafb2c5141fe1a783f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\77685ef6183fb16eb8275695cf331f22\jetified-play-services-measurement-base-20.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\01bfba9c5ec03e74f67e256e34140c18\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ece928c08008e8fa7640eafb00f2fa5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6e85edfc9be1101cb6ac482bf7de7a9d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\e9eff8b1a2257ae0620a2d19ef76de0c\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d1d157445a40a5b0a3f91015e73f08db\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\25196ee5325d0a839f36744d7abfea8c\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5e086cc8d6a1550eb0c9a44bd49380d\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\cb2c28c00afb7a891164ad30b0e4678d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8d94a7cd812cc938b614d15f443c9f66\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\a54ded5f2d21648a71b07aa67b61c74e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\12f8d90ed3a22bf3b4f46db32639764a\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\89614432c2b9cd1e2bfc94340ca802a5\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\87e7cca0ef77cc04485de32d42a8f880\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ee62b7f13fb16d49d4b22fc9ec93131\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\0288fe97d3e40923f47dd419f062a721\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b1c31e772f8e1d98a6aa6e2d79e2e4d6\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\500c3397e985977c67070bfe0ae4ce20\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\93d58772558e0b1c8745f838fa72506b\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\39ed94b231baedbaf25a59662ccec8e0\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\aa3edf6cea4ea52a2875738777170dcb\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1650d16e70d03de18f15aceb29eafc4e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\4f9348005c5e21ffd38f11bb1d9796cc\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\952abf736513da78aa90ff067c3dd0e4\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\640d247cf8b5993f31c92fdc7fa0f171\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\5d3f964412a2919119846e0cb58d7c70\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\420e6958971a09b0209b64301b887d27\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ef16f9ad06e275a5d0debab039049f4\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d5418363f111c89b366ec5fdd3e8d8d\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b429cfa03ba499c359b0c0d2115bf2f9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\9421cad36ad6d398bcf5fbeba2c94447\jetified-tensorflow-lite-2.7.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\668ac54b04c0f68e5f97f00cc5a061a7\jetified-tensorflow-lite-gpu-2.7.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\7496ca8561f7af2482c1c8eae1b7b6e5\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\10abf1b9de929ff351ee5b614cc31d9c\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\e57aa8e55dcfcbba7bbb4cc82cc8336e\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:1:1-62:12
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:1:1-62:12
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:4:4-66
+MERGED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:4:4-66
+MERGED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:4:4-66
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:4:21-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:5:4-79
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:5:21-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:6:1-63
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:6:18-61
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:7:1-74
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:7:18-72
+application
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:8:4-61:16
+MERGED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6603fab1064f16f5e482b13fb65a2cbd\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6603fab1064f16f5e482b13fb65a2cbd\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79a1e06fd0d9dd6fbb27ee5e850b0164\jetified-firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79a1e06fd0d9dd6fbb27ee5e850b0164\jetified-firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8316e293ee623f3b1731bc9a296446d2\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8316e293ee623f3b1731bc9a296446d2\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8d70edcce36707b628d278ac90777b3c\jetified-play-services-measurement-sdk-20.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8d70edcce36707b628d278ac90777b3c\jetified-play-services-measurement-sdk-20.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b7e01f92680b5ec5599db89c8a23ddff\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b7e01f92680b5ec5599db89c8a23ddff\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\616b3add37aa25bafb2c5141fe1a783f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\616b3add37aa25bafb2c5141fe1a783f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\77685ef6183fb16eb8275695cf331f22\jetified-play-services-measurement-base-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\77685ef6183fb16eb8275695cf331f22\jetified-play-services-measurement-base-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\01bfba9c5ec03e74f67e256e34140c18\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\01bfba9c5ec03e74f67e256e34140c18\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ece928c08008e8fa7640eafb00f2fa5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ece928c08008e8fa7640eafb00f2fa5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6e85edfc9be1101cb6ac482bf7de7a9d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6e85edfc9be1101cb6ac482bf7de7a9d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ee62b7f13fb16d49d4b22fc9ec93131\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ee62b7f13fb16d49d4b22fc9ec93131\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b1c31e772f8e1d98a6aa6e2d79e2e4d6\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b1c31e772f8e1d98a6aa6e2d79e2e4d6\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\9421cad36ad6d398bcf5fbeba2c94447\jetified-tensorflow-lite-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\9421cad36ad6d398bcf5fbeba2c94447\jetified-tensorflow-lite-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\668ac54b04c0f68e5f97f00cc5a061a7\jetified-tensorflow-lite-gpu-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\668ac54b04c0f68e5f97f00cc5a061a7\jetified-tensorflow-lite-gpu-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\7496ca8561f7af2482c1c8eae1b7b6e5\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\7496ca8561f7af2482c1c8eae1b7b6e5\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\10abf1b9de929ff351ee5b614cc31d9c\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\10abf1b9de929ff351ee5b614cc31d9c\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ee62b7f13fb16d49d4b22fc9ec93131\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:9:9-37
+	android:icon
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:10:9-43
+activity#com.example.diet_planner.MainActivity
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:11:9-39:20
+	android:launchMode
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:13:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:17:13-55
+	android:configChanges
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:15:13-163
+	android:theme
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:14:13-47
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:12:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:22:13-25:17
+	android:resource
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:24:15-52
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:23:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:31:13-34:17
+	android:resource
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:33:15-61
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:32:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:37:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:42:9-44:33
+	android:value
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:44:13-30
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:43:13-44
+service#dev.fluttercommunity.plus.androidalarmmanager.AlarmService
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:45:13-48:31
+	android:exported
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:48:5-29
+	android:permission
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:47:5-61
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:46:5-78
+receiver#dev.fluttercommunity.plus.androidalarmmanager.AlarmBroadcastReceiver
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:49:1-51:31
+	android:exported
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:51:5-29
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:50:5-88
+receiver#dev.fluttercommunity.plus.androidalarmmanager.RebootBroadcastReceiver
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:52:1-59:12
+	android:enabled
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:54:5-28
+	android:exported
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:55:5-29
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:53:5-89
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:56:5-58:21
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:57:9-71
+	android:name
+		ADDED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml:57:17-68
+uses-sdk
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:tflite] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:tflite] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager_plus] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\android_alarm_manager_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager_plus] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\android_alarm_manager_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6603fab1064f16f5e482b13fb65a2cbd\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6603fab1064f16f5e482b13fb65a2cbd\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79a1e06fd0d9dd6fbb27ee5e850b0164\jetified-firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta04] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79a1e06fd0d9dd6fbb27ee5e850b0164\jetified-firebase-appcheck-interop-16.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8316e293ee623f3b1731bc9a296446d2\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8316e293ee623f3b1731bc9a296446d2\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c4deb5bfa6a68ba7049f56bd5200581d\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c4deb5bfa6a68ba7049f56bd5200581d\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\bed3530ad77239199584349c201c1938\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\bed3530ad77239199584349c201c1938\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\2b7e226b56e6854c462e4d88db04b125\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\2b7e226b56e6854c462e4d88db04b125\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8d70edcce36707b628d278ac90777b3c\jetified-play-services-measurement-sdk-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8d70edcce36707b628d278ac90777b3c\jetified-play-services-measurement-sdk-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\151f564f4ec8a7f8636b45840e23e852\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\151f564f4ec8a7f8636b45840e23e852\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\2bb6161904247b9ad192a8e1ffd482a1\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\2bb6161904247b9ad192a8e1ffd482a1\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b7e01f92680b5ec5599db89c8a23ddff\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b7e01f92680b5ec5599db89c8a23ddff\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\616b3add37aa25bafb2c5141fe1a783f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\616b3add37aa25bafb2c5141fe1a783f\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\77685ef6183fb16eb8275695cf331f22\jetified-play-services-measurement-base-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\77685ef6183fb16eb8275695cf331f22\jetified-play-services-measurement-base-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\01bfba9c5ec03e74f67e256e34140c18\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\01bfba9c5ec03e74f67e256e34140c18\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ece928c08008e8fa7640eafb00f2fa5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ece928c08008e8fa7640eafb00f2fa5\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6e85edfc9be1101cb6ac482bf7de7a9d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6e85edfc9be1101cb6ac482bf7de7a9d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\e9eff8b1a2257ae0620a2d19ef76de0c\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\e9eff8b1a2257ae0620a2d19ef76de0c\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d1d157445a40a5b0a3f91015e73f08db\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d1d157445a40a5b0a3f91015e73f08db\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\25196ee5325d0a839f36744d7abfea8c\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\25196ee5325d0a839f36744d7abfea8c\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5e086cc8d6a1550eb0c9a44bd49380d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5e086cc8d6a1550eb0c9a44bd49380d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\cb2c28c00afb7a891164ad30b0e4678d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\cb2c28c00afb7a891164ad30b0e4678d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8d94a7cd812cc938b614d15f443c9f66\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\8d94a7cd812cc938b614d15f443c9f66\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\a54ded5f2d21648a71b07aa67b61c74e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\a54ded5f2d21648a71b07aa67b61c74e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\12f8d90ed3a22bf3b4f46db32639764a\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\12f8d90ed3a22bf3b4f46db32639764a\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\89614432c2b9cd1e2bfc94340ca802a5\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\89614432c2b9cd1e2bfc94340ca802a5\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\87e7cca0ef77cc04485de32d42a8f880\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\87e7cca0ef77cc04485de32d42a8f880\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ee62b7f13fb16d49d4b22fc9ec93131\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ee62b7f13fb16d49d4b22fc9ec93131\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\0288fe97d3e40923f47dd419f062a721\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\0288fe97d3e40923f47dd419f062a721\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b1c31e772f8e1d98a6aa6e2d79e2e4d6\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b1c31e772f8e1d98a6aa6e2d79e2e4d6\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\500c3397e985977c67070bfe0ae4ce20\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\500c3397e985977c67070bfe0ae4ce20\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\93d58772558e0b1c8745f838fa72506b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\93d58772558e0b1c8745f838fa72506b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\39ed94b231baedbaf25a59662ccec8e0\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\39ed94b231baedbaf25a59662ccec8e0\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\aa3edf6cea4ea52a2875738777170dcb\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\aa3edf6cea4ea52a2875738777170dcb\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1650d16e70d03de18f15aceb29eafc4e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1650d16e70d03de18f15aceb29eafc4e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\4f9348005c5e21ffd38f11bb1d9796cc\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\4f9348005c5e21ffd38f11bb1d9796cc\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\952abf736513da78aa90ff067c3dd0e4\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\952abf736513da78aa90ff067c3dd0e4\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\640d247cf8b5993f31c92fdc7fa0f171\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\640d247cf8b5993f31c92fdc7fa0f171\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\5d3f964412a2919119846e0cb58d7c70\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\5d3f964412a2919119846e0cb58d7c70\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\420e6958971a09b0209b64301b887d27\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\420e6958971a09b0209b64301b887d27\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ef16f9ad06e275a5d0debab039049f4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\3ef16f9ad06e275a5d0debab039049f4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d5418363f111c89b366ec5fdd3e8d8d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d5418363f111c89b366ec5fdd3e8d8d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b429cfa03ba499c359b0c0d2115bf2f9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\b429cfa03ba499c359b0c0d2115bf2f9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\9421cad36ad6d398bcf5fbeba2c94447\jetified-tensorflow-lite-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\9421cad36ad6d398bcf5fbeba2c94447\jetified-tensorflow-lite-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\668ac54b04c0f68e5f97f00cc5a061a7\jetified-tensorflow-lite-gpu-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\668ac54b04c0f68e5f97f00cc5a061a7\jetified-tensorflow-lite-gpu-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\7496ca8561f7af2482c1c8eae1b7b6e5\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\7496ca8561f7af2482c1c8eae1b7b6e5\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\10abf1b9de929ff351ee5b614cc31d9c\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\10abf1b9de929ff351ee5b614cc31d9c\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\e57aa8e55dcfcbba7bbb4cc82cc8336e\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\e57aa8e55dcfcbba7bbb4cc82cc8336e\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+		MERGED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+		MERGED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\android\app\src\debug\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_database] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-127
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\SINGIRIKONDA VINAY\OneDrive\Documents\Flutter Projects\Diet Planner\diet_planner\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:25-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\ef58aed3a3093b61b2c6f7900f569549\jetified-play-services-measurement-sdk-api-20.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.3] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f06ef5ea247b00b5809aa105df26171e\jetified-firebase-database-20.0.3\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\73bd9e3de31c9aca161df288f4a47f66\jetified-play-services-measurement-api-20.0.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\1d43af2a7150a0a747d47de7b23f6a13\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\f3d23aa0d9632c7a4a454856ed5c6bf5\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\79b632ab1472e5b01dc4c94bdfd49412\jetified-play-services-measurement-impl-20.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:20.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\d92cd89ad8423ac8e271f6f9362c842f\jetified-play-services-measurement-20.0.0\AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\c5fe605e7c72b351224d9f8b45827655\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6e85edfc9be1101cb6ac482bf7de7a9d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6e85edfc9be1101cb6ac482bf7de7a9d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\SINGIRIKONDA VINAY\.gradle\caches\transforms-2\files-2.1\6e85edfc9be1101cb6ac482bf7de7a9d\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
