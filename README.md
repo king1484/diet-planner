@@ -6,7 +6,7 @@ by Vinay
 ![unnamed](https://user-images.githubusercontent.com/85832194/163663259-707cb53c-9976-4605-8679-9ed15696ff51.png)
 
 Try our app :
-[Download Now](https://play.google.com/store/apps/details?id=com.techvinay.diet_planner)
+[Download Now](https://sites.google.com/view/dietplanner)
 
 # Other Details
 
